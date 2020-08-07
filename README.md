@@ -37,7 +37,7 @@
 <br />
 <br />
 
-### Work experince
+### Work experience:
   **2016 - 2017:** ***Qualfon. Cebu Philippines.*** (*Customer service representative*) <br />
   Worked as a customer service representative, catering customers outside our country. We help them for technical support on thier mobile phones.
   <br />
