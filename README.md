@@ -49,6 +49,13 @@
   **2019 - Present:** ***Crescode. Philippines*** (*Senior Software Engineer*) <br />
   Worked as the main software tech lead in a team, working with node js, react, next js, and mongodb.
 
+<br />
+<br />
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanskins&show_icons=true&hide_border=true" />
+
+<br />
+
 Email me at vansabacajan@gmail.com.
 
 [youtube]: https://www.youtube.com/channel/UC-j4L6tVyEukhzfVBO6tEnA?view_as=subscriber
