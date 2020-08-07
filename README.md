@@ -56,7 +56,7 @@
 
 <br />
 
-Email me at vansabacajan@gmail.com.
+**Email:** vansabacajan@gmail.com.
 
 [youtube]: https://www.youtube.com/channel/UC-j4L6tVyEukhzfVBO6tEnA?view_as=subscriber
 [instagram]: https://www.instagram.com/vanalfredd
