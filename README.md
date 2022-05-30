@@ -46,8 +46,14 @@
   Worked as a software engineer, one of the pioneering developers on the company. We developed a mobile application built with React native, node js, and Mongodb. The app is widely used on our country, it is a lifestyle app called [streetby](https://streetby.com/).
   <br />
 
-  **2019 - Present:** ***Crescode. Philippines*** (*Senior Software Engineer*) <br />
+  **2019 - 2021:** ***Crescode. Philippines*** (*Senior Software Engineer*) <br />
   Worked as the main software tech lead in a team, working with node js, react, next js, and mongodb.
+  <br />
+  **October 2021 - February 2022:** ***Methodical group. Philippines*** (*Mobile Software Engineer*) <br />
+  Work on a mobile application using React native, node js, mongoDB and AWS.
+  <br />
+  **February 2022 - June 2022:** ***Devpartners. Philippines*** (*Frontend Developer*) <br />
+  Work on a website for ecommerce using React JS. 
 
 <br />
 <br />
