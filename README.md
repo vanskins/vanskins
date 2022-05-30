@@ -3,13 +3,13 @@
 ## I'm a software developer
 - 🔭 I’m currently working as remote developer.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: 
+- 🥅 2022 Goals: 
    - to learn more about fullstack development.
    - create my own youtube channel for software development.
    - to land a good software company to enhance my skills.
    - to have my own house.
    - to build an awesome pc for my work.
-- ⚡ Fun fact: I am 25 years old. haha
+- ⚡ Fun fact: I am 27 years old. haha
 
 ### Connect with me:
 
@@ -49,9 +49,11 @@
   **2019 - 2021:** ***Crescode. Philippines*** (*Senior Software Engineer*) <br />
   Worked as the main software tech lead in a team, working with node js, react, next js, and mongodb.
   <br />
+  
   **October 2021 - February 2022:** ***Methodical group. Philippines*** (*Mobile Software Engineer*) <br />
   Work on a mobile application using React native, node js, mongoDB and AWS.
   <br />
+  
   **February 2022 - June 2022:** ***Devpartners. Philippines*** (*Frontend Developer*) <br />
   Work on a website for ecommerce using React JS. 
 
