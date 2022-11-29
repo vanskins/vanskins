@@ -28,6 +28,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />]()
+[<img align="left" alt="TypeScript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
@@ -55,7 +56,10 @@
   <br />
   
   **February 2022 - June 2022:** ***Devpartners. Philippines*** (*Frontend Developer*) <br />
-  Work on a website for ecommerce using React JS. 
+  Work on a website for ecommerce using React JS.
+  
+  **July 2022 - Present:** ***Idyllic co*** (*Frontend Software Engineer*) <br />
+  Techstack React Native for mobile, React JS and Next JS for Web development. Techstack React and React Native, Next JS, TypeScript.
 
 <br />
 <br />
